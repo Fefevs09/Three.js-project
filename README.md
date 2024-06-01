@@ -20,4 +20,4 @@ npm start
 
 ## References
 
-![Dev as life](https://youtu.be/IGK6eceWyU4?si=cmpHqniPAmnPLRgY)
+[How to create Ghibli-style trees with three.js](https://youtu.be/IGK6eceWyU4?si=cmpHqniPAmnPLRgY)
