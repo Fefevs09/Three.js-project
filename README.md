@@ -1,4 +1,8 @@
-# Three.js Project
+# Studio Ghibli Three.js
+
+![Image](./docs/Image-threejs.png)
+![Video](./docs/video-threejs.gif)
+![Ponyo and Sosuke in boat](./docs/PonyoandSosuke.webp)
 
 - React - A JavaScript library for building UIs
 - [Three.js](https://threejs.org/) - JavaScript 3D library
@@ -13,3 +17,7 @@ cd Three.js-project/
 npm i
 npm start
 ```
+
+## References
+
+![Dev as life](https://youtu.be/IGK6eceWyU4?si=cmpHqniPAmnPLRgY)
